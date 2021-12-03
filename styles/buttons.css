@@ -1,0 +1,19 @@
+.button {
+	background-color: black;
+color: white;
+font-weight: bold;
+padding: 16px;
+border-radius: 4px;
+border: 1px white ;
+}
+
+.button:hover{
+	background-color: black;
+	color: red;
+	transition: 1s;
+}
+
+#form.button{
+	text-align: center;
+	margin: 16px;
+}
