@@ -1,0 +1,33 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 8px;
+position: sticky;
+top: 0;
+background-color: black;
+}
+
+.navbar img{
+	width: 150px;
+}
+
+.nav-menu {
+	list-style: none;
+}
+
+
+.nav-item{
+	display: inline;
+	margin: 8px;
+
+}
+
+a{
+	color: blue;
+}
+
+i{
+	color: white;
+	justify-content: space-between;
+}
